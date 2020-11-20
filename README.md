@@ -1,4 +1,4 @@
-## IS-BOT
+## HAWK-BOT
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,41 +16,10 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/imamsyahfa2005/nice
-> cd nice
+> https://github.com/useranon-tech/HAWK-BOT.git
+> cd HAWK-BOT
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
 > node index.js
 ```
-
-
-# FITUR
-
-| KEADAAN       |               FITUR     |
-| :-----------: | :--------------------------------:  |
-|       ✅       |    PANTUN                         |
-|       ✅       | ANIMEPICT                         |
-|       ✅       | STICKER                           |
-|       🤔       | NULIS                             |
-|       ✅       | QUOTES                            |
-|       ✅       | RANDOM PICT                       |
-|       ✅       | ANIMEPICT                         |
-|       ✅       | LIRIK                             |
-|       ✅       | ALAY                              |
-|       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
-|       ✅       | WIKIPEDIA                         |
-|       ✅       | ARTI NAMA                         |
-|       ✅       | SHOLAT                            |
-|       ✅       | QURAN                             |
-|       ✅       | KAMING SUN                        |
-
-ket : ✅ : aktif
-Ket : 🤔 : bug
-
-
-
-
-
-## DONASI
-* [`FOLLOW IG SAYA SAJA`](https://instagram.com/serenyemnyem) 
